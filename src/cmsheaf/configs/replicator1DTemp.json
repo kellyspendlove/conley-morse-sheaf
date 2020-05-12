@@ -1,0 +1,14 @@
+
+{
+    "param" : {
+        "bounds"    : [[10,40]],
+        "boxes"     : [20]
+    },
+    "phase" : {
+        "bounds"    : [[0.001,1.0]],
+        "boxes"     : [10]
+    },
+    "sampling" : {
+        "num_samples"   : 1
+    }
+}

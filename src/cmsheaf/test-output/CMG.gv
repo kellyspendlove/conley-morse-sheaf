@@ -1,0 +1,7 @@
+digraph {
+0[label="0 : (1, 0, 0)", style=filled, fillcolor=cyan];
+1[label="33 : (0, 1, 0)", style=filled, fillcolor=cyan];
+2[label="18 : (1, 0, 0)", style=filled, fillcolor=cyan];
+1 -> 0;
+1 -> 2;
+}
